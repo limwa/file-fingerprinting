@@ -13,5 +13,5 @@ not being guaranteed duplicates.
 >
 > To handle this, I had also written tools that
 would compute the SHA256 checksum for files with the same CRC64 checksum.
-Unfortunately, and becuase this project is old, I don't have the code for those
+Unfortunately, and because this project is old, I don't have the code for those
 tools anymore. Either way, it's a good proof of concept.
